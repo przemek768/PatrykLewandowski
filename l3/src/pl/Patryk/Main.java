@@ -1,6 +1,3 @@
-package pl.bohdanlukaszewicz;
-
-
 import java.util.Random;
 import java.util.Scanner;
 
