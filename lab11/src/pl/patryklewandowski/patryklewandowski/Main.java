@@ -72,8 +72,8 @@ public class Main {
 //        ar2.add(5);
 //        ar2.add(6);
 
-        ArrayUtil.isSorted(ar1);
-        ArrayUtil.isSorted(ar2);
+//        ArrayUtil.isSorted(ar1);
+//        ArrayUtil.isSorted(ar2);
 
 
 
